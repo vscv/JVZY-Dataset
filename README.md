@@ -10,6 +10,8 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
 
 國小1-4年級的學生正值語言學習的黃金期，閱讀能力需要大量透過圖文書和繪本輔助進行培養，目前讀物和教材皆有大量旁註注音以協助一般明眼學生來閱讀，然而對視障學生來說，相同的圖文書籍只能仰賴家長的報讀外，主要是利用文字辨識技術(OCR)先將書籍文字轉換成純文字檔進行軟體導讀，或是再重製為點字書與有聲書以重複使用。但現行Optical Character Recognition (OCR) 技術對於有旁註注音的中文字容易產生辨識錯誤或是辨識成亂碼（如下圖），也不利於直接使用OCR軟體進行導讀。導致對於有注音的文本不論是在純文字的辨識重製上，以及後續人工校對的耗時費力上造成更重的負擔。
 
+需求背景請參考：https://aigo.org.tw/zh-tw/competitions/details/433 “透過背景去除辨識注音閱讀資源”
+
 #### 旁註注音對OCR的影響
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/v1_1_issue.jpg)
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/v1_2_issue.jpg)
