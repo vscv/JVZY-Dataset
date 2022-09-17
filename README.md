@@ -51,3 +51,15 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
 ##### NOTE: This is JVZY v2 dataset only for image2image networks.
 
 ---------------------------------------
+
+
+If you find this code useful in your research, please consider citing:
+
+@inproceedings{ss,
+Author = {ssss},
+Title = {Cssss},
+Booktitle  = {sssssss},
+Year = {2023}
+}
+
+---------------------------------------
