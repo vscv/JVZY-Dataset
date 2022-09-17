@@ -15,8 +15,9 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/v1_2_issue.jpg)
 
 #### 量化旁註注音對OCR的影響
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/fig6.jpg)
 
-#### 注音訓練集與注音偵測模型
+#### 注音訓練集與注音偵測模型 (w：有旁註注音在Recall, F-score指標均大幅降低。)
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/v1_3_workflow.jpg)
 
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/v1_4_zy_detection.jpg)
