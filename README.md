@@ -54,14 +54,21 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
 
 ---------------------------------------
 
-
-If you find this code useful in your research, please consider citing:
-
-@inproceedings{ss,
-Author = {ssss},
-Title = {Cssss},
-Booktitle  = {sssssss},
+If you find them useful, please consider citing our work. 
+```
+@inproceedings{TBD,
+Author = {TBD},
+Title = {TBD},
+Booktitle  = {TBD},
 Year = {2023}
 }
+```
 
+```
+@inproceedings{TBD,
+Author = {TBD},
+Title = {TBD},
+Booktitle  = {IoTaIS'2022},
+Year = {2022}
+}
 ---------------------------------------
