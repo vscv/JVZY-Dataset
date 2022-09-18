@@ -29,8 +29,9 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
   
   
 ---------------------------------------
+---------------------------------------
 
-
+---------------------------------------
 ---------------------------------------
 
 # JVZYv2
@@ -38,7 +39,9 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
 
 #### 建立注音符號專用的深度模型訓練集，可供Image-to-Image模型的訓練，可將輸入影像中的注音符號過濾去除。
 
-#### 在影像解析度為640x640下之抹除樣本(左：輸入原始旁註注音影像，中：模型輸出無注音影像，右：無旁註之ground truth影像。)
+####在影像解析度為640x640下之抹除結果
+
+(左：輸入原始旁註注音影像，中：模型輸出無注音影像，右：無旁註之ground truth影像。)
 
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl[0].jpg)
 
@@ -50,7 +53,15 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
 
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl[7].jpg)
 
-##### NOTE: This is JVZY v2 dataset only for image2image networks.
+
+#### 在影像解析度為960x960下之抹除結果
+
+(左：輸入原始旁註注音影像，中：模型輸出無注音影像，右：無旁註之ground truth影像。)
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl_960_[1].jpg)
+
+
+
+##### NOTE: This is JVZY v2 dataset for image2image networks.
 
 ---------------------------------------
 
