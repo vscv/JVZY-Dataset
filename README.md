@@ -40,7 +40,7 @@ Optical Character Recognition (OCR) [3] technology has also been greatly improve
 #### 建立注音符號專用的深度模型訓練集，可供Image-to-Image模型的訓練，可將輸入影像中的注音符號過濾去除。
 
 
-#### 這裡僅使用簡單的3+3層的autoencoder模型做可行性示範，其他Image-to-Image如GAN或U-net類的架構應可得到更清晰的輸出。
+#### 這裡僅使用簡單的3+3層的autoencoder架構做可行性示範，其他Image-to-Image如GAN或U-net類的架構，使用完整的層數可得到更清晰的輸出。
 
 ```
 Layer (type)                 Output Shape              Param #   
