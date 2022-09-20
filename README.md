@@ -1,5 +1,5 @@
-![Image text](https://github.com/vscv/JVZY/blob/main/ZhuYin_64-128_ckpt_evl_results_crop.gif)
 
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/ZhuYin_64-128_ckpt_evl_results_crop.gif)
 ---------------------------------------
 
 
