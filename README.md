@@ -1,3 +1,8 @@
+![Image text](https://github.com/vscv/JVZY/blob/main/ZhuYin_64-128_ckpt_evl_results_crop.gif)
+
+---------------------------------------
+
+
 # JVZY
 ## Joint-Vertic ZhuYin dataset for object detection and image inpainting
 
