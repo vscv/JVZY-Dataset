@@ -88,15 +88,14 @@ Non-trainable params: 192
 
 (左：輸入原始旁註注音影像，中：模型輸出無注音影像，右：無旁註之ground truth影像。)
 
-![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl[0].jpg)
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl_hyperp_64to128x2_640_32_[1].jpg)
 
-![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl[10].jpg)
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl_hyperp_64to128x2_640_32_[19].jpg)
 
-![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl[1].jpg)
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl_hyperp_64to128x2_640_32_[25].jpg)
 
-![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl[3].jpg)
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl_hyperp_64to128x2_640_32_[29].jpg)
 
-![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl[7].jpg)
 
 
 #### 在影像解析度為960x960下之抹除結果
