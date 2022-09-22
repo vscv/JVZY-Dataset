@@ -88,7 +88,7 @@ Non-trainable params: 192
 
 ### 建立注音符號專用的深度模型訓練集，可供物件偵測模型對注音符號進行位置偵測，將取得之注音符號邊界框用於影像復原技術，即可將注音符號之區域抹除。
 
-需求背景請參考：https://aigo.org.tw/zh-tw/competitions/details/433 “透過背景去除辨識注音閱讀資源”
+原始需求背景請參考：https://aigo.org.tw/zh-tw/competitions/details/433 “透過背景去除辨識注音閱讀資源”
 
 #### 旁註注音對OCR的影響
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/v1_1_issue.jpg)
