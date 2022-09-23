@@ -4,6 +4,12 @@
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/ZhuYin_64-128_ckpt_evl_results_convert_2k_0.65_epoch.gif)
 
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/ZhuYin_64-128_ckpt_cleanGT_evl_results_convert_2k_1.00_epoch_22.gif)
+
+
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/ZhuYin_64-128_ckpt_cleanGT_0_epoch_match_girl_text.gif)
+![Image text](https://github.com/vscv/JVZY/blob/main/samples/ZhuYin_64-128_ckpt_cleanGT_0_epoch_以下文字_text_0.8.gif)
+
+
 ---------------------------------------
 
 ## Joint-Variant ZhuYin dataset for training Image-to-Image networks (JVZYv2)
