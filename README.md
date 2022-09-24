@@ -16,8 +16,6 @@
 
 #### 建立注音符號專用的深度模型訓練集，可供Image-to-Image模型的訓練，可將輸入影像中的注音符號過濾去除。
 
-Optical Character Recognition (OCR) [3] technology has also been greatly improved, so the digitization of document has reached the highest efficiency. However, since the texts of this period will have Mandarin Phonetic Symbols (aka Bopomofo and Zhuyin) annotated to facilitate pronunciation learning, the original OCR efficiency will be affected when these phonetic characters are digitized. So,  the essential premise is that there needs to be an appropriate number of phonetic symbol datasets for retraining the OCR model and training a phonetic symbols detector for image inpainting.
-
 全球至少有22億人面臨視覺障礙的問題(WHO 2019)，因人口老齡化與生活方式的改變，也致使視障人數逐年增加。而台灣則有約4萬6千名視障人口(伊甸社會福利基金會)。本計畫將學童之課內、外讀物轉換成文字讀本時，能減少OCR對注音文本的辨識錯誤率，因此減少後續人工逐字檢查、重新繕打的工作量，提高自動導讀、有聲書與電子書的製作效率。使視障孩子能夠閱讀與同齡孩子相同的書籍資源，進而阻絕視障生的學習弱勢，協助導向正常社交和人際關係。
 現行讀物轉換成文字讀的方法，係掃描讀本後存為數位影像，再利用商用OCR軟體辨識後輸出文字檔。本團隊提供注音抹除工具能夠將掃描後的數位影像中的注音符號消除，並保留其他原有畫面，再由慣行的OCR軟體辨識。因此我們所規劃的方法是可以直接加入現行工作流程，而不需要進行太多的系統修改，也不影響現行方式的習慣性。
 
