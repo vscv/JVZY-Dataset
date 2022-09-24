@@ -77,13 +77,6 @@ Non-trainable params: 192
 
 ![Image text](https://github.com/vscv/JVZY/blob/main/samples/zhuyin_result_evl_hyperp_64to128x2_640_32_[29].jpg)
 
-
-
-#### 在影像解析度為960x960下之抹除結果
-(左：輸入原始旁註注音影像，中：模型輸出無注音影像，右：無旁註之ground truth影像。)
-(由於簡單模型放大尺寸並不會使結果更清晰)
-
-
 ##### NOTE: This is JVZY v2 dataset for image2image networks.
 
 ---------------------------------------
